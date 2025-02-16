@@ -2,6 +2,8 @@
 
 ### 🤖  AI-Driven GitHub Automation & Insights 
 
+https://komarev.com/ghpvc/?org=GitCorteX&label=Visitors&color=0e75b6&style=flat
+
 GitCortex is a next-gen AI-driven GitHub automation platform accelerating developer productivity with:
 
 ✅ **Repository Analytics** – Track contributions, issues, and code quality  
