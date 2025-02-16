@@ -1,21 +1,26 @@
-# 🚀 GitCortex  
+### **🚀 GitCorteX**  
 
-### 🤖  AI-Driven GitHub Automation & Insights 
+🤖 **AI-Powered GitHub Automation & Insights**  
 
-GitCortex is a next-gen AI-driven GitHub automation platform accelerating developer productivity with:
+GitCorteX is a **next-gen AI-driven tool** that enhances **GitHub workflows, automates PR reviews, and provides deep repository analytics**, making development **faster, smarter, and more efficient**.  
 
-✅ **Repository Analytics** – Track contributions, issues, and code quality  
-✅ **AI-Driven PR Reviews** – Automated PR insights and suggestions  
-✅ **Workflow Automation** – Streamline CI/CD and issue tracking  
-✅ **GitHub Insights** – Get organization-wide repository analysis  
+## **🔧 Features**  
 
-
-## 🔧 Features  
-
-- 📊 **Repository Insights** – Track stars, forks, issues, and PR activity
-- 🧠 **AI Code Review** – Track stars, forks, issues, and PR activity  
-- 🔄 **Automated Workflows** –  Support for GitHub Actions
-- 📈 **User Contribution Insights** – Track developer activity 
+📊 **AI-Powered PR Summarization & Auto-Merge** – Generate AI-driven summaries & automate merge decisions.  
+🧠 **Developer Productivity & Burnout Detection** – Track coding patterns & prevent developer burnout.  
+🎯 **Smart PR Labels & Auto-Assignment** – AI categorizes PRs & assigns them to relevant contributors.  
+📜 **AI-Generated Code Documentation** – Auto-generate docstrings, PR descriptions & repo documentation.  
+🔥 **Code Review Heatmap** – Visualize frequently reviewed & high-risk files.  
+🔄 **AI-Powered Branch Management** – Detect & clean up stale branches.  
+🏗️ **Best Practices & Coding Style Checker** – Ensure PRs follow industry-standard coding guidelines.  
+🛠️ **Predictive Issue Resolution** – AI suggests bug fixes based on past issues.  
+📜 **Auto-Generate Release Notes** – AI writes structured changelogs for releases.  
+✍️ **AI-Powered Commit Message Generator** – AI generates meaningful commit messages.  
+📊 **Developer Skills Report** – Track coding strengths & suggest learning paths.   
+🏗️ **Codebase Aging & Refactor Suggestions** – Identify old code needing updates.  
+🔍 **Smart Issue Resolution Matching** – AI links similar issues & suggests solutions.  
+🔄 **Automated AI Code Refactoring** – AI-powered performance optimization & restructuring.  
+🤝 **Collaborator System for Task Assignment** – AI-based task distribution & contributor management.  
 
 ## 🚀 Getting Started  
 
@@ -33,7 +38,7 @@ pip install -r requirements.txt
 Create a `.env` file with GitHub API credentials:  
 ```env
 GITHUB_TOKEN=your_personal_access_token
-OPENAI_API_KEY=your_openai_api_key
+API_KEY=api_key
 DATABASE_URL=your_postgres_db_url
 ```
 
